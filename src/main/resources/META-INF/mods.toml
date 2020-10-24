@@ -1,0 +1,48 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[34,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="catastrophes" #mandatory
+
+version="1.16.3-1.0.0" #mandatory
+
+displayName="Catastrophes Mod" #mandatory
+
+updateJSONURL="http://myurl.me/" #optional
+
+displayURL="http://example.com/" #optional
+
+logoFile="examplemod.png" #optional
+
+credits="Inspired from the Wilbur Soot rising sea level video and the Solar Apocalypse Mod!" #optional
+
+authors="coznix" #optional
+
+description='''
+The Catastrophes Mod currently adds three disasters or events called "Catastrophes". Each Catastrophe has its own unique properties, bringing a challenge to your minecraft world. One such Catastrophe is The Great Flood, which slowly engulfs the world with water, forcing players to move far above the surface. Who knows what lurks in the drink below. The Catastrophes Mod does limit world size for functionality. To compensate, the most powerful Catastrophe, The Ender, almost entirely destroys and then regenerates the world. The only substance kept from the previous world is that which you stashed in your ender chest. The Nether Dimension is disabled, and instead implemented into the overworld via the Catastrophe Hellish Earth. The Sun becomes so close that it boils the surface of the world, essentially turning it into a Nether. Future Catastrophes will be added, one such being Acid Rain. Keep in mind that this mod will impact your world considerably.
+'''
+
+[[dependencies.examplemod]] #optional
+
+    modId="forge" #mandatory
+
+    mandatory=true #mandatory
+
+    versionRange="[34,)" #mandatory
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3]"
+    ordering="NONE"
+    side="BOTH"

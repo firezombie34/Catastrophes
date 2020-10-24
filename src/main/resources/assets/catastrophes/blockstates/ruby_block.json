@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "catastrophes:block/ruby_block" }
+  }
+}
