@@ -10,6 +10,6 @@ Right clicking with the Catalyst item will activate a thunder storm
 
 Recent Progress [Updated 10/24/2020]
 ------------------------------------
-Added 'Catalyst' item, Fixed game breaking syntax error, Added 'Abyssalite Ingot' item
+Added 'Catalyst' item, Fixed game breaking syntax error, Added 'Abyssalite Ingot' item, Added 'Ruby Block' Test Block
 
 
