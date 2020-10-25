@@ -15,4 +15,4 @@ Right clicking Catalyst activates chat event (Client only), Added 'Catalyst' ite
 
 Future Changes
 --------------
-Right clicking with Catalyst activates a basic display at the top of the player's screen
+Right clicking with the Catalyst activates a basic display at the top of the player's screen
