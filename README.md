@@ -8,10 +8,8 @@ Current Project
 ----------------
 -Right clicking with the Catalyst item will activate a thunder storm
 
-Recent Progress (Top is most recent)
+Recent Progress
 ------------------------------------
--Added 'Catalyst' item
--Fixed game breaking syntax error
--Added 'Abyssalite Ingot' item
+Added 'Catalyst' item, Fixed game breaking syntax error, Added 'Abyssalite Ingot' item
 
 
