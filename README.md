@@ -13,3 +13,6 @@ Recent Progress [Updated 10/25/2020]
 Right clicking Catalyst activates chat event (Client only), Added 'Catalyst' item, Fixed game breaking syntax error, Added 'Abyssalite Ingot' item
 
 
+Future Changes
+--------------
+Right clicking with Catalyst activates a basic display at the top of the player's screen
