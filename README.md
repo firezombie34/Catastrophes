@@ -6,7 +6,7 @@ The Catastrophes Mod currently adds three disasters or events called "Catastroph
 
 Current Project
 ----------------
--Right clicking with the Catalyst item will activate a thunder storm
+Right clicking with the Catalyst item will activate a thunder storm
 
 Recent Progress
 ------------------------------------
