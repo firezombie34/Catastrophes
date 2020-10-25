@@ -1,4 +1,4 @@
-# Catastrophes
+# The Catastrophes Mod
 
 Mod Description
 ---------------
