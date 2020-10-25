@@ -6,7 +6,7 @@ The Catastrophes Mod will add (#) disasters or events called "Catastrophes". Eac
 
 Current Project
 ----------------
-Right clicking with the Catalyst item will activate a thunder storm
+Right clicking with the Catalyst item will activate a thunder storm (Primitive Thalassic Deluge)
 
 Recent Progress [Updated 10/24/2020]
 ------------------------------------
